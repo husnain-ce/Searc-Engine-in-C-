@@ -1,21 +1,36 @@
 # Searc-Engine-in-C++
 
+## Summary:
+Here  we develop a Search Engine Using Linked list  has ability to do read files efficiently and rank all the server files Immediately also open the file on the basis of greater frequency .
 
-Hi,
-This Project is based upon data structures and algorithnms in which 
+### For Example:
+If user come with his query and the server has data to solve this query also there a lot of files that stores data but it shows the file that has greater frequency for this.
+      
+## Features
 
-Linked list is used for Extraction of data
+As we make a great effort in coding of search engine So our search engine has followings characteristics:
 
-after extracting data it compares to user query
+- Takes query from user and performs various operations on it	
+- Read Files Efficiently.
+- Write data on files efficiently
+- Having ability to create a C-Panel like in websites.
+- Also our searching Engine contains an ability of BLOGING.
+- Our Search Engine contains also History of user.
+- Also it ranks files on the basis of Frequency and open document with respect to user choice.
 
-data from file extracted by linked list == given query
 
-if query words are found in data than it counts a frequancy of each word
+## Our Project Contains :
 
-after calculating frequacy 
+- Dynamic Linked List.
+- Delete Data from Link List.
+- Quick Sort Algorithm.
+- Array Data Structure.
 
-it ranks the document according to the frequancy 
 
-if Doc3 contains more frequancy than Doc0 than 
 
-it ranked on Top like web pages on #Google
+
+| Plugin | README |
+| ------ | ------ |
+| Searching Screen | ![alt text](Capture.PNG) |
+| After Counting Frequancy the Ranked Docs are | ![alt text](Capture12.PNG) |
+| Result | ![alt text](Capture34.PNG) |
